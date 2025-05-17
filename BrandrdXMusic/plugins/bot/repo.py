@@ -21,12 +21,12 @@ async def start(_, msg):
             ],
      
             [
-             InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/its_deva_heree"),
-             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/TFW_UPDATES"),
+             InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/nexaq"),
+             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Matlabi_Duniyah"),
              ],
      
              [
-             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/TFW_CHATTING_CLUB"),
+             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/InfoSecInsiders"),
              ],
      
               ]
